@@ -4,11 +4,6 @@
 	"hobby": [
 		"Eating"
 	],
-	"link": [
-		{
-		"href":"www.google.com",
-		"name": "Google"
-		}
-	]
+	"link": "www.google.com"
 			
 }
