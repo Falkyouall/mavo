@@ -1,12 +1,8 @@
 {
-	"email": "iguewuiew",
+	"email": "fewfwe",
 	"message": "                        Edit the form and notice how the values persist after you refresh!\n                    ",
 	"hobby": [
 		"Eating"
 	],
-	"link":[ {
-		"name":"google",
-		"href": "www.google.com"
-	}]
-			
+	"link": []
 }
